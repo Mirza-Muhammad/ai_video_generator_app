@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "H9JNMS38ZB.app.aivideogenerator.devsrank",
+        "appID": "T2R8MDX829.app.aivideogenerator.devsrank",
         "paths": [ "*" ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-      "H9JNMS38ZB.app.aivideogenerator.devsrank"
+      "T2R8MDX829.app.aivideogenerator.devsrank"
     ]
   }
 }
