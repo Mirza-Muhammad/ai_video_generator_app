@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JNCCW8556S.app.aivideogenerator.devsrank",
+        "paths": [ "*" ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "JNCCW8556S.app.aivideogenerator.devsrank"
+    ]
+  }
+}
